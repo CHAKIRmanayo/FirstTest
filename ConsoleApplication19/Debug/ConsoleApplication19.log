@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication19.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  list_utils1.cpp
+  main.cpp
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\consoleapplication19\consoleapplication19\main.cpp(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\consoleapplication19\consoleapplication19\main.cpp(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\consoleapplication19\consoleapplication19\main.cpp(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\consoleapplication19\consoleapplication19\main.cpp(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\consoleapplication19\consoleapplication19\main.cpp(38): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note:  см. объявление "getch"
+  Создание кода...
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\consoleapplication19\consoleapplication19\list_utils1.cpp(120): warning C4715: getNext: значение возвращается не при всех путях выполнения
+  ConsoleApplication19.vcxproj -> C:\Users\maksi\OneDrive\Документы\Visual Studio 2012\Projects\Шишкин\ConsoleApplication19\Debug\Test1.exe
